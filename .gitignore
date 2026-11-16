@@ -1,0 +1,5 @@
+.mysql-data/
+.DS_Store
+uploads/*
+!uploads/.gitkeep
+!uploads/default.png
